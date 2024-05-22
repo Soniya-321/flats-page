@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Homepage-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.Homepage-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+    font-family: "bree serif";
+    text-align: center;
+}
+
+.Homepage-card-container-heading {
+    color: #f19116;
+    font-size: 24px;
+    padding-top: 23px;
+    font-family: "bree serif";
+}
+
+.Homepage-card-container-paragraph {
+    color: #7b8794;
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+    border-radius: 5px;
+    border-width: 0px;
+    width: 80px;
+    height: 30px;
+}
+
+.Flatspage-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    padding-left: 13px;
+    font-family: "bree serif";
+    padding-bottom: 10px;
+}
+
+.Flatspage-card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.Flatspage-image {
+    height: 150px;
+    width: 80px;
+}
+
+.text-container {
+    padding-left: 10px;
+}
+
+.Flatspage-card-container-heading {
+    color: #0f0e4e;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Flatspage-card-container-paragraph {
+    color: #7b8794;
+    font-size: 13px;
+}
+
+.BHKFlatpage-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    font-family: "bree serif";
+    padding-bottom: 50px;
+}
+
+.BHK-image {
+    height: 35vh;
+    width: 100vw;
+}
+
+.price {
+    color: #f19116;
+    font-size: 28px;
+    padding: 20px;
+}
+
+.location-image {
+    height: 25px;
+    width: 25px;
+    margin-left: 20px;
+}
+
+.line {
+    background-color: #ffffff;
+    width: 90vw;
+    height: 1px;
+}
+
+.location-adress {
+    color: #ffffff;
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.heading {
+    color: #f19116;
+    font-size: 26px;
+    padding-left: 20px;
+}
+
+.paragraph {
+    color: #ffffff;
+    font-size: 14px;
+    padding-left: 20px;
+}
